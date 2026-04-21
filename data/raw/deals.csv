@@ -1,0 +1,8 @@
+deal_id,deal_name,discount_percent,start_date,end_date,category,min_purchase
+D001,New Year Sale,10,2023-01-01,2023-03-31,All,50.00
+D002,Tech Week,15,2023-01-10,2023-04-30,Electronics,100.00
+D003,Summer Blast,20,2023-05-01,2023-08-31,All,75.00
+D004,Loyalty Reward,25,2023-09-01,2023-12-31,All,60.00
+D005,Spring Flash Sale,20,2026-03-15,2026-03-31,Electronics,30.00
+D006,April Mega Deal,25,2026-04-01,2026-04-30,All,50.00
+D007,New Customer Offer,15,2026-03-15,2026-04-30,All,0.00

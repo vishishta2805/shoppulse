@@ -1,0 +1,35 @@
+customer_id,first_name,last_name,email,phone,city,state,country,signup_date,segment
+C001,Alice,Johnson,alice.johnson@email.com,555-1001,New York,NY,USA,2022-01-15,Premium
+C002,Bob,Smith,bob.smith@email.com,555-1002,Los Angeles,CA,USA,2022-02-20,Standard
+C003,Carol,White,carol.white@email.com,555-1003,Chicago,IL,USA,2022-03-10,Premium
+C004,David,Brown,david.brown@email.com,555-1004,Houston,TX,USA,2022-04-05,Standard
+C005,Eva,Davis,eva.davis@email.com,555-1005,Phoenix,AZ,USA,2022-05-18,Basic
+C006,Frank,Miller,frank.miller@email.com,555-1006,Philadelphia,PA,USA,2022-06-22,Standard
+C007,Grace,Wilson,grace.wilson@email.com,555-1007,San Antonio,TX,USA,2022-07-30,Premium
+C008,Henry,Moore,henry.moore@email.com,555-1008,San Diego,CA,USA,2022-08-14,Basic
+C009,Isla,Taylor,isla.taylor@email.com,555-1009,Dallas,TX,USA,2022-09-01,Standard
+C010,Jake,Anderson,jake.anderson@email.com,555-1010,San Jose,CA,USA,2022-10-11,Premium
+C011,Kara,Thomas,kara.thomas@email.com,555-1011,Austin,TX,USA,2022-11-03,Basic
+C012,Leo,Jackson,leo.jackson@email.com,555-1012,Jacksonville,FL,USA,2022-12-19,Standard
+C013,Mia,Harris,mia.harris@email.com,555-1013,Columbus,OH,USA,2023-01-07,Premium
+C014,Noah,Martin,noah.martin@email.com,555-1014,Charlotte,NC,USA,2023-02-14,Standard
+C015,Olivia,Garcia,olivia.garcia@email.com,555-1015,Indianapolis,IN,USA,2023-03-25,Basic
+C016,Paul,Martinez,paul.martinez@email.com,555-1016,San Francisco,CA,USA,2023-04-08,Premium
+C017,Quinn,Robinson,quinn.robinson@email.com,555-1017,Seattle,WA,USA,2023-05-20,Standard
+C018,Rose,Clark,rose.clark@email.com,555-1018,Denver,CO,USA,2023-06-13,Basic
+C019,Sam,Rodriguez,sam.rodriguez@email.com,555-1019,Nashville,TN,USA,2023-07-04,Standard
+C020,Tina,Lewis,tina.lewis@email.com,555-1020,Oklahoma City,OK,USA,2023-08-17,Premium
+C021,Radha,Sivani,radhasivani@gmail.com,555-1021,Hyderabad,TS,India,2025-09-12,Premium
+C022,Emma,Stone,emma.stone@email.com,555-0121,Miami,FL,USA,2024-01-10,Standard
+C023,Liam,Brown,liam.brown@email.com,555-0122,Boston,MA,USA,2024-02-15,Standard
+C024,Sophia,Clark,sophia.clark@email.com,555-0123,Atlanta,GA,USA,2024-03-20,Premium
+C025,Arjun,Sharma,arjun.sharma@email.com,555-1031,Mumbai,MH,India,2026-03-15,Premium
+C026,Priya,Reddy,priya.reddy@email.com,555-1032,Hyderabad,TS,India,2026-03-18,Standard
+C027,Vikram,Nair,vikram.nair@email.com,555-1033,Chennai,TN,India,2026-03-22,Basic
+C028,Ananya,Patel,ananya.patel@email.com,555-1034,Bangalore,KA,India,2026-03-25,Premium
+C029,Rohan,Mehta,rohan.mehta@email.com,555-1035,Delhi,DL,India,2026-03-28,Standard
+C030,Sneha,Kumar,sneha.kumar@email.com,555-1036,Pune,MH,India,2026-04-01,Basic
+C031,Kiran,Das,kiran.das@email.com,555-1037,Kolkata,WB,India,2026-04-03,Premium
+C032,Divya,Singh,divya.singh@email.com,555-1038,Jaipur,RJ,India,2026-04-05,Standard
+C033,Aditya,Rao,aditya.rao@email.com,555-1039,Ahmedabad,GJ,India,2026-04-08,Premium
+C034,Meera,Iyer,meera.iyer@email.com,555-1040,Kochi,KL,India,2026-04-10,Basic

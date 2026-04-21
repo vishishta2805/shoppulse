@@ -1,0 +1,111 @@
+transaction_id,customer_id,product_id,product_name,category,quantity,unit_price,discount,transaction_date,deal_id,return_flag
+T001,C001,P005,Wireless Headphones,Electronics,1,89.99,0.10,2023-01-05,D001,0
+T002,C002,P012,Running Shoes,Footwear,2,59.99,0.00,2023-01-08,,0
+T003,C003,P001,Laptop Stand,Electronics,1,45.00,0.05,2023-01-12,D002,0
+T004,C001,P008,Coffee Maker,Kitchen,1,129.99,0.15,2023-01-20,D001,0
+T005,C004,P003,Yoga Mat,Sports,1,35.00,0.00,2023-02-01,,0
+T006,C005,P010,Novel - Mystery,Books,3,14.99,0.00,2023-02-05,,0
+T007,C002,P007,Bluetooth Speaker,Electronics,1,75.00,0.10,2023-02-10,D003,0
+T008,C006,P015,Face Cream,Beauty,2,29.99,0.00,2023-02-14,,0
+T009,C007,P002,Smart Watch,Electronics,1,199.99,0.20,2023-02-18,D002,0
+T010,C003,P011,Desk Lamp,Home,1,49.99,0.05,2023-02-22,,0
+T011,C008,P004,Protein Powder,Health,2,49.99,0.00,2023-03-01,,0
+T012,C009,P009,Cooking Pan,Kitchen,1,65.00,0.10,2023-03-05,D004,0
+T013,C010,P006,Sunglasses,Fashion,1,120.00,0.15,2023-03-10,D001,0
+T014,C001,P013,Air Purifier,Home,1,149.99,0.10,2023-03-15,D002,0
+T015,C011,P014,Backpack,Fashion,1,79.99,0.00,2023-03-20,,0
+T016,C012,P001,Laptop Stand,Electronics,2,45.00,0.05,2023-03-25,D003,0
+T017,C004,P005,Wireless Headphones,Electronics,1,89.99,0.00,2023-04-02,,1
+T018,C013,P016,Vitamin C,Health,3,19.99,0.00,2023-04-07,,0
+T019,C007,P008,Coffee Maker,Kitchen,1,129.99,0.20,2023-04-12,D004,0
+T020,C002,P002,Smart Watch,Electronics,1,199.99,0.10,2023-04-18,D001,0
+T021,C014,P017,Dumbbell Set,Sports,1,95.00,0.00,2023-04-22,,0
+T022,C015,P012,Running Shoes,Footwear,1,59.99,0.05,2023-04-28,D002,0
+T023,C003,P018,Scented Candle,Home,4,12.99,0.00,2023-05-03,,0
+T024,C016,P010,Novel - Mystery,Books,2,14.99,0.00,2023-05-08,,0
+T025,C010,P007,Bluetooth Speaker,Electronics,1,75.00,0.15,2023-05-13,D003,0
+T026,C005,P015,Face Cream,Beauty,1,29.99,0.00,2023-05-18,,0
+T027,C017,P003,Yoga Mat,Sports,2,35.00,0.10,2023-05-23,D004,0
+T028,C001,P006,Sunglasses,Fashion,1,120.00,0.00,2023-06-01,,0
+T029,C018,P009,Cooking Pan,Kitchen,1,65.00,0.05,2023-06-06,,0
+T030,C019,P011,Desk Lamp,Home,2,49.99,0.00,2023-06-11,,0
+T031,C009,P004,Protein Powder,Health,1,49.99,0.10,2023-06-16,D001,0
+T032,C020,P013,Air Purifier,Home,1,149.99,0.20,2023-06-21,D002,0
+T033,C011,P017,Dumbbell Set,Sports,1,95.00,0.00,2023-06-26,,0
+T034,C007,P016,Vitamin C,Health,2,19.99,0.00,2023-07-01,,0
+T035,C013,P018,Scented Candle,Home,3,12.99,0.05,2023-07-06,D003,0
+T036,C006,P002,Smart Watch,Electronics,1,199.99,0.15,2023-07-11,D004,0
+T037,C014,P005,Wireless Headphones,Electronics,1,89.99,0.00,2023-07-16,,0
+T038,C002,P014,Backpack,Fashion,1,79.99,0.10,2023-07-21,D001,0
+T039,C016,P008,Coffee Maker,Kitchen,1,129.99,0.00,2023-07-26,,0
+T040,C020,P012,Running Shoes,Footwear,2,59.99,0.15,2023-08-01,D002,0
+T041,C003,P007,Bluetooth Speaker,Electronics,1,75.00,0.00,2023-08-06,,0
+T042,C017,P015,Face Cream,Beauty,2,29.99,0.05,2023-08-11,,0
+T043,C012,P010,Novel - Mystery,Books,1,14.99,0.00,2023-08-16,,0
+T044,C008,P003,Yoga Mat,Sports,1,35.00,0.10,2023-08-21,D003,0
+T045,C001,P009,Cooking Pan,Kitchen,1,65.00,0.20,2023-08-26,D004,0
+T046,C019,P001,Laptop Stand,Electronics,1,45.00,0.00,2023-09-01,,0
+T047,C010,P004,Protein Powder,Health,3,49.99,0.00,2023-09-06,,0
+T048,C015,P006,Sunglasses,Fashion,1,120.00,0.10,2023-09-11,D001,0
+T049,C004,P011,Desk Lamp,Home,1,49.99,0.05,2023-09-16,,0
+T050,C018,P013,Air Purifier,Home,1,149.99,0.15,2023-09-21,D002,0
+T051,C007,P017,Dumbbell Set,Sports,2,95.00,0.00,2023-09-26,,0
+T052,C013,P002,Smart Watch,Electronics,1,199.99,0.20,2023-10-01,D003,0
+T053,C011,P016,Vitamin C,Health,2,19.99,0.00,2023-10-06,,0
+T054,C005,P014,Backpack,Fashion,1,79.99,0.10,2023-10-11,D004,0
+T055,C020,P007,Bluetooth Speaker,Electronics,1,75.00,0.00,2023-10-16,,0
+T056,C016,P018,Scented Candle,Home,4,12.99,0.05,2023-10-21,,0
+T057,C009,P012,Running Shoes,Footwear,1,59.99,0.15,2023-10-26,D001,0
+T058,C002,P004,Protein Powder,Health,2,49.99,0.00,2023-11-01,,0
+T059,C014,P009,Cooking Pan,Kitchen,1,65.00,0.10,2023-11-06,D002,0
+T060,C003,P005,Wireless Headphones,Electronics,1,89.99,0.20,2023-11-11,D003,0
+T061,C021,P001,Wireless Headphones,Electronics,2,89.99,0.10,2024-02-01,D001,0
+T062,C022,P013,Smart Watch,Electronics,1,199.99,0.00,2024-02-10,,0
+T063,C023,P006,Bluetooth Speaker,Electronics,1,75.00,0.15,2024-02-15,D002,0
+T064,C021,P003,Coffee Maker,Appliances,1,49.99,0.05,2024-03-01,,0
+T065,C022,P009,Backpack,Accessories,2,55.00,0.10,2024-03-10,D003,0
+T066,C023,P018,Dumbbells,Sports,1,120.00,0.00,2024-03-20,,0
+T067,C021,P013,Smart Watch,Electronics,1,199.99,0.20,2024-04-01,D001,0
+T068,C001,P020,Perfume,Beauty,2,65.00,0.10,2024-04-05,D002,0
+T069,C002,P011,Protein Powder,Health,3,39.99,0.00,2024-04-10,,0
+T070,C003,P006,Bluetooth Speaker,Electronics,1,75.00,0.15,2024-04-15,D003,0
+T071,C022,P004,Yoga Mat,Sports,1,35.00,0.00,2024-05-01,,0
+T072,C023,P010,Skincare Set,Beauty,1,85.00,0.10,2024-05-10,D001,0
+T073,C021,P007,Water Bottle,Sports,3,18.99,0.00,2024-05-20,,0
+T074,C001,P013,Smart Watch,Electronics,1,199.99,0.05,2024-06-01,D002,0
+T075,C022,P015,Face Wash,Beauty,2,22.00,0.00,2024-06-10,,0
+T076,C024,P001,Wireless Headphones,Electronics,1,89.99,0.10,2026-01-05,D001,0
+T077,C021,P013,Smart Watch,Electronics,1,199.99,0.00,2026-01-10,,0
+T078,C022,P006,Bluetooth Speaker,Electronics,2,75.00,0.15,2026-01-15,D002,0
+T079,C023,P003,Coffee Maker,Appliances,1,49.99,0.00,2026-01-20,,0
+T080,C001,P009,Backpack,Accessories,1,55.00,0.10,2026-02-01,D001,0
+T081,C002,P010,Skincare Set,Beauty,1,85.00,0.00,2026-02-05,,0
+T082,C007,P013,Smart Watch,Electronics,1,199.99,0.20,2026-02-10,D003,0
+T083,C010,P004,Yoga Mat,Sports,2,35.00,0.00,2026-02-15,,0
+T084,C013,P011,Protein Powder,Health,1,39.99,0.05,2026-02-20,D001,0
+T085,C016,P007,Water Bottle,Sports,3,18.99,0.00,2026-03-01,,0
+T086,C020,P015,Face Wash,Beauty,1,22.00,0.10,2026-03-05,D002,0
+T087,C003,P001,Wireless Headphones,Electronics,1,89.99,0.00,2026-03-10,,0
+T088,C021,P006,Bluetooth Speaker,Electronics,1,75.00,0.15,2026-03-15,D003,0
+T089,C024,P013,Smart Watch,Electronics,1,199.99,0.00,2026-03-20,,0
+T090,C022,P009,Backpack,Accessories,2,55.00,0.10,2026-03-25,D001,0
+T091,C025,P005,Wireless Headphones,Electronics,1,89.99,0.20,2026-03-15,D005,0
+T092,C026,P002,Smart Watch,Electronics,1,199.99,0.15,2026-03-18,D007,0
+T093,C027,P007,Bluetooth Speaker,Electronics,2,75.00,0.20,2026-03-20,D005,0
+T094,C028,P008,Coffee Maker,Kitchen,1,129.99,0.15,2026-03-22,D007,0
+T095,C029,P014,Backpack,Fashion,1,79.99,0.00,2026-03-25,,0
+T096,C030,P015,Face Cream,Beauty,1,29.99,0.15,2026-03-28,D007,0
+T097,C031,P002,Smart Watch,Electronics,1,199.99,0.25,2026-04-01,D006,0
+T098,C032,P003,Yoga Mat,Sports,2,35.00,0.00,2026-04-02,,0
+T099,C033,P004,Protein Powder,Health,3,49.99,0.25,2026-04-03,D006,0
+T100,C034,P017,Dumbbell Set,Sports,1,95.00,0.00,2026-04-05,,0
+T101,C025,P002,Smart Watch,Electronics,1,199.99,0.20,2026-04-06,D006,0
+T102,C026,P014,Backpack,Fashion,1,79.99,0.15,2026-04-07,D007,0
+T103,C027,P005,Wireless Headphones,Electronics,1,89.99,0.20,2026-04-08,D006,0
+T104,C028,P015,Face Cream,Beauty,2,29.99,0.00,2026-04-09,,0
+T105,C029,P017,Dumbbell Set,Sports,1,95.00,0.25,2026-04-10,D006,0
+T106,C030,P007,Bluetooth Speaker,Electronics,1,75.00,0.15,2026-04-10,D007,0
+T107,C031,P008,Coffee Maker,Kitchen,1,129.99,0.00,2026-04-11,,0
+T108,C032,P002,Smart Watch,Electronics,1,199.99,0.25,2026-04-11,D006,0
+T109,C033,P005,Wireless Headphones,Electronics,2,89.99,0.20,2026-04-12,D006,0
+T110,C034,P004,Protein Powder,Health,2,49.99,0.15,2026-04-12,D007,0
