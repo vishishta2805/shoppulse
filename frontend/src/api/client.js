@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const api = axios.create({
-  baseURL: '/api',
+  baseURL: 'https://shoppulse-api-oave.onrender.com',
   timeout: 60000,
   headers: { 'Content-Type': 'application/json' },
 })
